@@ -1,7 +1,7 @@
 {
-  "name": "gm-helper",
-  "version": "0.0.2",
-  "description": "gm-helper based gm",
+  "name": "tp-helper",
+  "version": "0.0.1",
+  "description": "tp-helper based texturepacker",
   "main": "lib/tp.js",
   "scripts": {
     "test": "gulp test"
